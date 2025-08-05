@@ -18,7 +18,7 @@ const lista = ['Lucas', 27, true];
 // uso de pipe " | " para permitir mais de um tipo
 let idadeDaAna = 25;
 idadeDaAna = '25 anos';
-// Tipo any aceita qalquer tipo, usar com cuidado!!!
+// Tipo any aceita qualquer tipo, usar com cuidado!!!
 let dadosDaApi;
 dadosDaApi = 10;
 dadosDaApi = '10';
