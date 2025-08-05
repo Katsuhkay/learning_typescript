@@ -27,7 +27,7 @@ const lista: [nome: string, idade: number, estaEstudando: boolean] = ['Lucas', 2
 let idadeDaAna: number | string = 25
 idadeDaAna = '25 anos'
 
-// Tipo any aceita qalquer tipo, usar com cuidado!!!
+// Tipo any aceita qualquer tipo, usar com cuidado!!!
 let dadosDaApi: any;
 dadosDaApi = 10
 dadosDaApi = '10'
